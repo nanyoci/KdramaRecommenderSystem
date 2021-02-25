@@ -1,4 +1,4 @@
-# KdramaRecommenderSystem (2018)
+# KdramaRecommenderSystem
 ### RecommenderSystem.ipynb <br>
 Based on graph using NetworkX and Adamic-Adar Index <br>
 ### webscraping.ipynb<br>
